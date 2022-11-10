@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "rest api health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaphapipah1220/RESTAPIHEALTH.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node.js"
+  ],
+  "author": "Aap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaphapipah1220/RESTAPIHEALTH/issues"
+  },
+  "homepage": "https://github.com/aaphapipah1220/RESTAPIHEALTH#readme"
+}
