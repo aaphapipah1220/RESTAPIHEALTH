@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/aaphapipah1220/RESTAPIHEALTH/issues"
   },
-  "homepage": "https://github.com/aaphapipah1220/RESTAPIHEALTH#readme"
+  "homepage": "https://github.com/aaphapipah1220/RESTAPIHEALTH#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
 }
